@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "planet_kwalc"
+name = "wotw"
 version = "0.1.0"
