@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/planet_kalc.iml" filepath="$PROJECT_DIR$/.idea/planet_kalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wotw.iml" filepath="$PROJECT_DIR$/.idea/wotw.iml" />
     </modules>
   </component>
 </project>

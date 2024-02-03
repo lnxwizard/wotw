@@ -61,7 +61,8 @@ fn main() {
             },
             Err(e) => {
                 println!("Error while selecting planet: {}", e);
-                continue;
+                return;
+                //continue;
             }
         };
 
